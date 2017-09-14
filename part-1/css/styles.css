@@ -38,6 +38,9 @@ body {
 
 .blue {
   background-color: lightblue;
+  position: absolute;
+  top: 50px;
+  left: 200px;
 }
 
 .orange {

@@ -27,3 +27,37 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+i {
+  color: #D61700;
+}
+
+.film {
+  position: relative;
+  width: 48%;
+  border: 1px solid lightgrey;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.film-poster {
+  width: 30%;
+  height: 250px;
+  position: relative;
+  float: left;
+  margin: 20px;
+}
+.action-watch-later {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+.film-description {
+  position: relative;
+
+}
+.action-like {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+}
